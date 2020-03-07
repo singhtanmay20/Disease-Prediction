@@ -1,0 +1,7 @@
+For Mac User:
+1. Go to terminal
+2. run command 'jupyter notebook'
+3. Run the File by going in menu 'Cell' -> 'Run all'
+
+Assumption -
+System has jupyter notebook and python already installed.
